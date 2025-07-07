@@ -48,9 +48,9 @@ public class draganddropq2 {
 	            System.out.println("Target text after drop: " + droppedText);
 
 	            if (droppedText.equals("Dropped!")) {
-	                System.out.println("✅ Drag and Drop operation successful!");
+	                System.out.println("Drag and Drop operation successful!");
 	            } else {
-	                System.out.println("❌ Drag and Drop operation failed!");
+	                System.out.println("Drag and Drop operation failed!");
 	            }
 
 	        } catch (Exception e) {
